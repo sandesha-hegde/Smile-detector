@@ -16,6 +16,7 @@ if you find any difficulties in installing use below command.
 ##### pip install requirement.txt
 
 ## Preview
+![](bean_smile.gif)
 
 ## Procedure
 - Before detecting the face, we need model which should detect the smiley face.To train the model run `train_model.py` with your own dataset.
