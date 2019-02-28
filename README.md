@@ -26,3 +26,7 @@ if you find any difficulties in installing use below command.
 ## Credits
 - Adrian Rosebrock creator of PyimageSearch
 - keras documentation
+
+## Note
+
+- Those who want the trained model you can contact me through e-mail `sandeshangiras@gmail.com'
