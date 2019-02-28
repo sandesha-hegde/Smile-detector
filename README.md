@@ -29,4 +29,4 @@ if you find any difficulties in installing use below command.
 
 ## Note
 
-- Those who want the trained model you can contact me through e-mail `sandeshangiras@gmail.com'
+- Those who want the trained model you can contact me through e-mail sandeshangiras@gmail.com
