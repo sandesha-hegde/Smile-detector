@@ -2,7 +2,7 @@
 Using CNN to detect smile from a pre-recorded video or live video
 
 ## Description
-Smile tracter can be used to detect smile in a images,videos,or live stream from a camera.This project used some deep learning techniques to find a smile in an image or video
+Smile detector can be used to detect smile in a images,videos,or live stream from a camera.This project used some deep learning techniques to find a smile in an image or video
 
 ## Requirements
 - keras
